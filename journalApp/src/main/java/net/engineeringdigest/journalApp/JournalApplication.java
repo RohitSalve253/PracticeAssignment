@@ -1,5 +1,6 @@
 package net.engineeringdigest.journalApp;
 //comment added on 21 january
+//new
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
